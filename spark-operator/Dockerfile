@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/spartakus-amd64:v1.1.0
+FROM gcr.io/spark-operator/spark-operator:v1beta2-1.0.0-2.4.4
 MAINTAINER yueyongqiang <252895542@qq.com>
